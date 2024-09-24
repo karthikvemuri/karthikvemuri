@@ -1,6 +1,6 @@
 ### Hi there 👋, Karthik Vemuri
 #### Design, Develop and have fun!
-![Design, Develop and have fun!](https://www.canva.com/design/DAGRpXLPcYU/sbas4fFd2O6fEkmnqIS5Rw/edit?utm_content=DAGRpXLPcYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Design, Develop and have fun!](https://www.canva.com/design/DAGRpXLPcYU/0EWDuEZUn59SVFfz1Orf3w/view?utm_content=DAGRpXLPcYU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 Hey! I am Karthik, a Senior Software Developer. I have worked across a bunch of tech spaces - telecom, storage, networking. I've had a chance to work on Backend dev and low-level system programming. 
 
