@@ -1,6 +1,5 @@
 ### Hi there 👋, Karthik Vemuri
 #### Design, Develop and have fun!
-Design, Develop and have fun!
 
 Hey! I am Karthik, a Senior Software Developer. I have worked across a bunch of tech spaces - telecom, storage, networking. I've had a chance to work on Backend dev and low-level system programming. 
 
