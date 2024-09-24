@@ -2,7 +2,7 @@
 
 # KARTHIK VEMURI
 
-Hey! I am Karthik, a Senior Software Developer. I have worked across a bunch of tech spaces - telecom, storage, networking. I've had a chance to work on Backend dev and low-level system programming. 
+Hey! I am Karthik, a Senior Software Developer. I have worked across a bunch of tech spaces - telecom, storage, networking. I've had a chance to work on Distributed Systems (Backend development) and low-level system programming. 
 
 Right now, I'm diving into the fintech world as part of my role at Varo Money,  and exploring new tech. My GitHub's been on a long break, but I'm finally revamping it with fresh learning and experiments.
 
