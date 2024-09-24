@@ -12,4 +12,4 @@ Right now, I'm diving into the fintech world as part of my role at Varo Money,  
 Skills: Python / JAVA / C++ / C / Backend Development / Distributed Systems/ Kernel development.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/saikarthikvemuri/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/saikarthikvemuri/)
