@@ -1,6 +1,3 @@
-### Hi there 👋, I'm Karthik Vemuri
-#### Design, Develop and have fun!
-
 ![Design, Develop and have fun!](https://github.com/karthikvemuri/karthikvemuri/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 
 # KARTHIK VEMURI
